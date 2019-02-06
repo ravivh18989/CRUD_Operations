@@ -1,0 +1,13 @@
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\netcoreapp2.1\CRUD_DEMO2.deps.json
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\netcoreapp2.1\CRUD_DEMO2.runtimeconfig.json
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\netcoreapp2.1\CRUD_DEMO2.runtimeconfig.dev.json
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\netcoreapp2.1\CRUD_DEMO2.dll
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.csproj.CoreCompileInputs.cache
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.RazorAssemblyInfo.cache
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.RazorAssemblyInfo.cs
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.AssemblyInfoInputs.cache
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.AssemblyInfo.cs
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.RazorTargetAssemblyInfo.cache
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\netcoreapp2.1\CRUD_DEMO2.pdb
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.dll
+E:\Indian_bank\CRUD application\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\netcoreapp2.1\CRUD_DEMO2.pdb
